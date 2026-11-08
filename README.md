@@ -47,7 +47,7 @@ The models are evaluated using regression metrics:
 
 - Mean Absolute Error (MAE)
 - Mean Squared Error (MSE)
-- Root Mean Squared Error (RMSE)
+- Root Mean Squared Error (RMSE) 
 - R² Score
 
 These metrics help assess prediction errors and compare model performance.
